@@ -28,7 +28,7 @@ This Scratch project shows a lively city scene with buildings, roads, cars, and 
 
 ---
 
-## ⚙️ How It Works (Step-by-Step)
+## ⚙️ How It Works 
 
 ### 1. Setup the Background
 
